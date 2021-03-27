@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PamTT (Phanit Tameerug)
+- 👋 Hi, I’m Phanit Tameerug
 - 👀 I’m interested in Semiconductor Packaging Technologies and Data Visualization and Analytics
-- 🌱 I transform concept to reality
+- 🌱 I transform concept to reality.
 - 📫 pam.tameerug@yahoo.com
 
 <!---
